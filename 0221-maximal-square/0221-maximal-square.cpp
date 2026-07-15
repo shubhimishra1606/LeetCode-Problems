@@ -1,25 +1,22 @@
 class Solution {
 public:
-    int solve(vector<vector<char>>& mat, int i, int j, int& mx, vector<vector<int>>& dp){
-        if(i>=mat.size() || j>=mat[0].size()) return 0;
-        if(dp[i][j]!=-1) return dp[i][j];
-        int right=solve(mat, i, j+1, mx, dp);
-        int down=solve(mat, i+1, j, mx, dp);
-        int diagonal=solve(mat, i+1, j+1, mx, dp);
-        if(mat[i][j]=='1'){
-            int ans=1+min({right, diagonal, down});
-            mx=max(mx, ans);
-            return dp[i][j]=ans;
-        }else{
-            return dp[i][j]=0;
-        }
-
-    }
     int maximalSquare(vector<vector<char>>& mat) {
-        int r=mat.size(), c=mat[0].size();
-        vector<vector<int>>dp(r,vector<int>(c,-1));
-        int mx=0;
-        solve(mat,0,0,mx,dp);
+        int mx=0, r=mat.size(), c=mat[0].size();
+        vector<vector<int>>dp(r+1, vector<int>(c+1,0));
+        for(int i=r-1; i>=0; i--){
+            for(int j=c-1; j>=0; j--){
+                int right=dp[i][j+1];
+                int down=dp[i+1][j];
+                int diagonal=dp[i+1][j+1];
+                if(mat[i][j]=='1'){
+                    dp[i][j]=1+min({right,down,diagonal});
+                    mx=max(dp[i][j],mx);
+                }
+                else{
+                    dp[i][j]=0;
+                }
+            }
+        }
         return mx*mx;
     }
 };
