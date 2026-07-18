@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0221-maximal-square](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0221-maximal-square/) | Medium |
+| [0416-partition-equal-subset-sum](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0983-minimum-cost-for-tickets](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0983-minimum-cost-for-tickets/) | Medium |
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/1039-minimum-score-triangulation-of-polygon/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/1254-number-of-closed-islands/) | Medium |
@@ -69,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0221-maximal-square](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0221-maximal-square/) | Medium |
+| [0416-partition-equal-subset-sum](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0983-minimum-cost-for-tickets](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0983-minimum-cost-for-tickets/) | Medium |
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/1039-minimum-score-triangulation-of-polygon/) | Medium |
 | [1402-reducing-dishes](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/1402-reducing-dishes/) | Hard |
