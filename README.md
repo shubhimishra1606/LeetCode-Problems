@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0062-unique-paths/) | Medium |
+| [0279-perfect-squares](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0279-perfect-squares/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
@@ -81,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0064-minimum-path-sum](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0064-minimum-path-sum/) | Medium |
 | [0119-pascals-triangle-ii](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0221-maximal-square](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0221-maximal-square/) | Medium |
+| [0279-perfect-squares](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0279-perfect-squares/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0983-minimum-cost-for-tickets](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0983-minimum-cost-for-tickets/) | Medium |
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/1039-minimum-score-triangulation-of-polygon/) | Medium |
@@ -115,6 +117,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0279-perfect-squares](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0279-perfect-squares/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/1254-number-of-closed-islands/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 ## Enumeration
