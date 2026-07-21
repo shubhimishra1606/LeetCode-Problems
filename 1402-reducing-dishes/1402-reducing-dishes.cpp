@@ -11,7 +11,17 @@ public:
     int maxSatisfaction(vector<int>& satisfaction) {
         sort(satisfaction.begin(), satisfaction.end());
         int n=satisfaction.size();
-        vector<vector<int>>dp(n+1,vector<int>(n+1,INT_MIN));
-        return solve(satisfaction,0,1,dp);
+        vector<vector<int>>dp(n+1,vector<int>(n+1,0));
+        // return solve(satisfaction,0,1,dp);
+
+        dp[n][n]=0;
+        for(int i=n-1; i>=0; i--){
+            for(int j=i; j>=0; j--){
+                int include=satisfaction[i]*(j+1) +dp[i+1][j+1];
+                int exclude=dp[i+1][j];
+                dp[i][j]=max(include,exclude);
+            }
+        }
+        return dp[0][0];
     }
 };
