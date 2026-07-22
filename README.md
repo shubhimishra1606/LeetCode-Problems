@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/2900-longest-unequal-adjacent-groups-subsequence-i/) | Easy |
 | [3499-maximize-active-section-with-trade-i](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -46,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/2900-longest-unequal-adjacent-groups-subsequence-i/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
@@ -61,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0300-longest-increasing-subsequence](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0354-russian-doll-envelopes](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0354-russian-doll-envelopes/) | Hard |
 | [3312-sorted-gcd-pair-queries](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 ## Union-Find
@@ -171,4 +174,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
 <!---LeetCode Topics End-->
