@@ -5,6 +5,7 @@ public:
         if(dp[idx][jump]!=-1) return dp[idx][jump];
         bool k, kminus, kplus;
         for(int i=idx+1; i<nums.size(); i++){
+            if(nums[i]>nums[idx]+jump+1) break;
             if(nums[i]==nums[idx]+jump){
                 k=solve(nums,i,jump,dp);
             }
