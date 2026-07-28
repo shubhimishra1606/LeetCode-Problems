@@ -107,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0416-partition-equal-subset-sum](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0983-minimum-cost-for-tickets](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0983-minimum-cost-for-tickets/) | Medium |
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/1039-minimum-score-triangulation-of-polygon/) | Medium |
+| [1155-number-of-dice-rolls-with-target-sum](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/1155-number-of-dice-rolls-with-target-sum/) | Medium |
 | [1388-pizza-with-3n-slices](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/1388-pizza-with-3n-slices/) | Hard |
 | [1402-reducing-dishes](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/1402-reducing-dishes/) | Hard |
 | [1824-minimum-sideway-jumps](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/1824-minimum-sideway-jumps/) | Medium |
