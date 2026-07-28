@@ -18,7 +18,25 @@ public:
         }
         if(sum%2==1) return false;
         int target=sum/2;
-        vector<vector<int>>dp(nums.size()+1,vector<int>(target+1,-1));
-        return solve(nums,target,0,dp);
+        // vector<vector<int>>dp(nums.size()+1,vector<int>(target+1,-1));
+        // return solve(nums,target,0,dp);
+
+        //-------------TABULATION------------
+        int n=nums.size();
+        vector<vector<int>>dp(n+1, vector<int>(target+1, 0));
+        for(int i=0; i<=n; i++){
+            dp[i][0]=true;
+        }
+        for(int i=n-1; i>=0; i--){
+            for(int j=1; j<=target; j++){
+                bool include=0;
+                if(j-nums[i]>=0){
+                    include=dp[i+1][j-nums[i]];
+                }
+                bool exclude=dp[i+1][j];
+                dp[i][j]=include||exclude;
+            }
+        }
+        return dp[0][target];
     }
 };
