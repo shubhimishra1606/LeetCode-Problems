@@ -48,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0403-frog-jump](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0403-frog-jump/) | Hard |
 | [0416-partition-equal-subset-sum](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0931-minimum-falling-path-sum](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [0983-minimum-cost-for-tickets](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0983-minimum-cost-for-tickets/) | Medium |
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/1039-minimum-score-triangulation-of-polygon/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/1254-number-of-closed-islands/) | Medium |
@@ -111,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0354-russian-doll-envelopes](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0354-russian-doll-envelopes/) | Hard |
 | [0403-frog-jump](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0403-frog-jump/) | Hard |
 | [0416-partition-equal-subset-sum](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0416-partition-equal-subset-sum/) | Medium |
+| [0931-minimum-falling-path-sum](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [0983-minimum-cost-for-tickets](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0983-minimum-cost-for-tickets/) | Medium |
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/1039-minimum-score-triangulation-of-polygon/) | Medium |
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/1155-number-of-dice-rolls-with-target-sum/) | Medium |
@@ -176,6 +178,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0063-unique-paths-ii](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0064-minimum-path-sum/) | Medium |
 | [0221-maximal-square](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0221-maximal-square/) | Medium |
+| [0931-minimum-falling-path-sum](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1260-shift-2d-grid](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/1260-shift-2d-grid/) | Easy |
 ## Simulation
