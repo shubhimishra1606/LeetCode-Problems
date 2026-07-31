@@ -224,4 +224,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0627-swap-sex-of-employees](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0627-swap-sex-of-employees/) | Easy |
 <!---LeetCode Topics End-->
