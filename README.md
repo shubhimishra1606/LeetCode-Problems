@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0062-unique-paths/) | Medium |
 | [0279-perfect-squares](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0279-perfect-squares/) | Medium |
+| [0486-predict-the-winner](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
@@ -48,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0354-russian-doll-envelopes](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0354-russian-doll-envelopes/) | Hard |
 | [0403-frog-jump](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0403-frog-jump/) | Hard |
 | [0416-partition-equal-subset-sum](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0416-partition-equal-subset-sum/) | Medium |
+| [0486-predict-the-winner](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0801-minimum-swaps-to-make-sequences-increasing/) | Hard |
 | [0931-minimum-falling-path-sum](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0931-minimum-falling-path-sum/) | Medium |
@@ -115,6 +117,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0354-russian-doll-envelopes](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0354-russian-doll-envelopes/) | Hard |
 | [0403-frog-jump](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0403-frog-jump/) | Hard |
 | [0416-partition-equal-subset-sum](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0416-partition-equal-subset-sum/) | Medium |
+| [0486-predict-the-winner](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0486-predict-the-winner/) | Medium |
 | [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0801-minimum-swaps-to-make-sequences-increasing/) | Hard |
 | [0931-minimum-falling-path-sum](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [0983-minimum-cost-for-tickets](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0983-minimum-cost-for-tickets/) | Medium |
@@ -228,4 +231,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0627-swap-sex-of-employees](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0627-swap-sex-of-employees/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0486-predict-the-winner](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0486-predict-the-winner/) | Medium |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0486-predict-the-winner](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0486-predict-the-winner/) | Medium |
 <!---LeetCode Topics End-->
