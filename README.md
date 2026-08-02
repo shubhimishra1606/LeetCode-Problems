@@ -58,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0983-minimum-cost-for-tickets](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0983-minimum-cost-for-tickets/) | Medium |
 | [1027-longest-arithmetic-subsequence](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/1027-longest-arithmetic-subsequence/) | Medium |
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/1039-minimum-score-triangulation-of-polygon/) | Medium |
+| [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/1218-longest-arithmetic-subsequence-of-given-difference/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1260-shift-2d-grid](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/1260-shift-2d-grid/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/1331-rank-transform-of-an-array/) | Easy |
@@ -77,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1027-longest-arithmetic-subsequence](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/1027-longest-arithmetic-subsequence/) | Medium |
+| [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/1218-longest-arithmetic-subsequence-of-given-difference/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3312-sorted-gcd-pair-queries](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
@@ -130,6 +132,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1027-longest-arithmetic-subsequence](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/1027-longest-arithmetic-subsequence/) | Medium |
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/1039-minimum-score-triangulation-of-polygon/) | Medium |
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/1155-number-of-dice-rolls-with-target-sum/) | Medium |
+| [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/1218-longest-arithmetic-subsequence-of-given-difference/) | Medium |
 | [1388-pizza-with-3n-slices](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/1388-pizza-with-3n-slices/) | Hard |
 | [1402-reducing-dishes](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/1402-reducing-dishes/) | Hard |
 | [1824-minimum-sideway-jumps](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/1824-minimum-sideway-jumps/) | Medium |
