@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0062-unique-paths](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0062-unique-paths/) | Medium |
 | [0096-unique-binary-search-trees](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0279-perfect-squares](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0279-perfect-squares/) | Medium |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0375-guess-number-higher-or-lower-ii/) | Medium |
 | [0486-predict-the-winner](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0486-predict-the-winner/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0877-stone-game](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0877-stone-game/) | Medium |
@@ -128,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0279-perfect-squares](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0279-perfect-squares/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0354-russian-doll-envelopes](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0354-russian-doll-envelopes/) | Hard |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0375-guess-number-higher-or-lower-ii/) | Medium |
 | [0403-frog-jump](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0403-frog-jump/) | Hard |
 | [0416-partition-equal-subset-sum](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0486-predict-the-winner](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0486-predict-the-winner/) | Medium |
@@ -256,12 +258,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0375-guess-number-higher-or-lower-ii/) | Medium |
 | [0486-predict-the-winner](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0877-stone-game/) | Medium |
 | [1406-stone-game-iii](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/1406-stone-game-iii/) | Hard |
 ## Minimax
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0375-guess-number-higher-or-lower-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/1406-stone-game-iii/) | Hard |
 ## Zero-Sum Game
 | Problem Name | Difficulty |
