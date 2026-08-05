@@ -10,7 +10,22 @@ public:
         return dp[st][end]=ans;
     }
     int getMoneyAmount(int n) {
-        vector<vector<int>>dp(n+1, vector<int>(n+1,-1));
-        return solve(1,n,dp);
+        // vector<vector<int>>dp(n+1, vector<int>(n+1,-1));
+        // return solve(1,n,dp);
+
+        vector<vector<int>>dp(n+2, vector<int>(n+2,0));
+        for(int st=n; st>=1; st--){
+            for(int end=st; end<=n; end++){
+                if(st==end) continue;
+                else{
+                    int ans=INT_MAX;
+                    for(int i=st; i<=end; i++){
+                        ans=min(ans, i+max(dp[st][i-1],dp[i+1][end]));
+                    }
+                    dp[st][end]=ans;
+                }
+            }
+        }
+        return dp[1][n];
     }
 };
