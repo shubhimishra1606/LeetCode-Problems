@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/2900-longest-unequal-adjacent-groups-subsequence-i/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3499-maximize-active-section-with-trade-i](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/3501-maximize-active-section-with-trade-ii/) | Hard |
@@ -121,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
 ## Dynamic Programming
@@ -153,6 +155,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1406-stone-game-iii](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/1406-stone-game-iii/) | Hard |
 | [1824-minimum-sideway-jumps](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/1824-minimum-sideway-jumps/) | Medium |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/2900-longest-unequal-adjacent-groups-subsequence-i/) | Easy |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
@@ -164,6 +167,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/2900-longest-unequal-adjacent-groups-subsequence-i/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
 ## Bit Manipulation
