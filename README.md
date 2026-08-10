@@ -273,6 +273,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0584-find-customer-referee](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0584-find-customer-referee/) | Easy |
 | [0595-big-countries](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0595-big-countries/) | Easy |
 | [0627-swap-sex-of-employees](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0627-swap-sex-of-employees/) | Easy |
 ## Recursion
