@@ -283,6 +283,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0610-triangle-judgement](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0610-triangle-judgement/) | Easy |
 | [0620-not-boring-movies](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0620-not-boring-movies/) | Easy |
 | [0627-swap-sex-of-employees](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0627-swap-sex-of-employees/) | Easy |
+| [1484-group-sold-products-by-the-date](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/1484-group-sold-products-by-the-date/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
