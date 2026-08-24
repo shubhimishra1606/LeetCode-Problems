@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0877-stone-game](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0877-stone-game/) | Medium |
 | [1140-stone-game-ii](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/1406-stone-game-iii/) | Hard |
+| [1872-stone-game-viii](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/1872-stone-game-viii/) | Hard |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3312-sorted-gcd-pair-queries](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
@@ -47,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1140-stone-game-ii](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/1140-stone-game-ii/) | Medium |
+| [1872-stone-game-viii](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/1872-stone-game-viii/) | Hard |
 | [3312-sorted-gcd-pair-queries](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/3312-sorted-gcd-pair-queries/) | Hard |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Medium |
 ## Array
@@ -79,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1402-reducing-dishes](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/1402-reducing-dishes/) | Hard |
 | [1406-stone-game-iii](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/1406-stone-game-iii/) | Hard |
 | [1824-minimum-sideway-jumps](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/1824-minimum-sideway-jumps/) | Medium |
+| [1872-stone-game-viii](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/1872-stone-game-viii/) | Hard |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/2900-longest-unequal-adjacent-groups-subsequence-i/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
@@ -165,6 +168,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1402-reducing-dishes](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/1402-reducing-dishes/) | Hard |
 | [1406-stone-game-iii](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/1406-stone-game-iii/) | Hard |
 | [1824-minimum-sideway-jumps](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/1824-minimum-sideway-jumps/) | Medium |
+| [1872-stone-game-viii](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/1872-stone-game-viii/) | Hard |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/2900-longest-unequal-adjacent-groups-subsequence-i/) | Easy |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
@@ -300,17 +304,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0877-stone-game](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0877-stone-game/) | Medium |
 | [1140-stone-game-ii](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/1406-stone-game-iii/) | Hard |
+| [1872-stone-game-viii](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/1872-stone-game-viii/) | Hard |
 ## Minimax
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0375-guess-number-higher-or-lower-ii/) | Medium |
 | [1140-stone-game-ii](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/1406-stone-game-iii/) | Hard |
+| [1872-stone-game-viii](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/1872-stone-game-viii/) | Hard |
 ## Zero-Sum Game
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1140-stone-game-ii](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/1406-stone-game-iii/) | Hard |
+| [1872-stone-game-viii](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/1872-stone-game-viii/) | Hard |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
