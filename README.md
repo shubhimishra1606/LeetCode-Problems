@@ -54,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0001-two-sum/) | Easy |
 | [0063-unique-paths-ii](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0064-minimum-path-sum/) | Medium |
 | [0119-pascals-triangle-ii](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0119-pascals-triangle-ii/) | Easy |
@@ -99,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0001-two-sum/) | Easy |
 | [1027-longest-arithmetic-subsequence](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/1027-longest-arithmetic-subsequence/) | Medium |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/1218-longest-arithmetic-subsequence-of-given-difference/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/1331-rank-transform-of-an-array/) | Easy |
