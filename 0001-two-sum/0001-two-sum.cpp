@@ -4,12 +4,11 @@ public:
         int n=nums.size();
         unordered_map<int,int>mp;
         for(int i=0; i<n; i++){
-            mp[nums[i]]=i;
-        }
-        for(int i=0; i<n; i++){
-            if(mp.count(target-nums[i]) && mp[target-nums[i]]!=i){
-                return {mp[target-nums[i]],i};
+            int need=target-nums[i];
+            if(mp.count(need) && mp[need]!=i){
+                return{mp[need],i};
             }
+            mp[nums[i]]=i;
         }
         return {-1,-1};
     }
