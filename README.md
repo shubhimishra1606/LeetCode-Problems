@@ -291,6 +291,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0584-find-customer-referee](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0584-find-customer-referee/) | Easy |
 | [0595-big-countries](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0595-big-countries/) | Easy |
+| [0596-classes-with-at-least-5-students](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0596-classes-with-at-least-5-students/) | Easy |
 | [0610-triangle-judgement](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0610-triangle-judgement/) | Easy |
 | [0620-not-boring-movies](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0620-not-boring-movies/) | Easy |
 | [0627-swap-sex-of-employees](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0627-swap-sex-of-employees/) | Easy |
