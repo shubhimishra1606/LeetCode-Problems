@@ -68,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0403-frog-jump](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0403-frog-jump/) | Hard |
 | [0416-partition-equal-subset-sum](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0486-predict-the-winner](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0486-predict-the-winner/) | Medium |
+| [0518-coin-change-ii](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0518-coin-change-ii/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0801-minimum-swaps-to-make-sequences-increasing/) | Hard |
 | [0877-stone-game](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0877-stone-game/) | Medium |
@@ -165,6 +166,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0403-frog-jump](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0403-frog-jump/) | Hard |
 | [0416-partition-equal-subset-sum](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0486-predict-the-winner](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0486-predict-the-winner/) | Medium |
+| [0518-coin-change-ii](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0518-coin-change-ii/) | Medium |
 | [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0801-minimum-swaps-to-make-sequences-increasing/) | Hard |
 | [0877-stone-game](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0877-stone-game/) | Medium |
 | [0931-minimum-falling-path-sum](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0931-minimum-falling-path-sum/) | Medium |
@@ -375,8 +377,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0322-coin-change](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0322-coin-change/) | Medium |
+| [0518-coin-change-ii](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0518-coin-change-ii/) | Medium |
 ## Complete Knapsack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0322-coin-change](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0322-coin-change/) | Medium |
+| [0518-coin-change-ii](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0518-coin-change-ii/) | Medium |
 <!---LeetCode Topics End-->
