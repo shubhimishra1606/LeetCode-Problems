@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0049-group-anagrams/) | Medium |
 | [0953-verifying-an-alien-dictionary](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0953-verifying-an-alien-dictionary/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/2900-longest-unequal-adjacent-groups-subsequence-i/) | Easy |
@@ -58,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0001-two-sum/) | Easy |
+| [0049-group-anagrams](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0049-group-anagrams/) | Medium |
 | [0063-unique-paths-ii](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0064-minimum-path-sum/) | Medium |
 | [0119-pascals-triangle-ii](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0119-pascals-triangle-ii/) | Easy |
@@ -109,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0001-two-sum/) | Easy |
+| [0049-group-anagrams](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0049-group-anagrams/) | Medium |
 | [0953-verifying-an-alien-dictionary](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0953-verifying-an-alien-dictionary/) | Easy |
 | [1027-longest-arithmetic-subsequence](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/1027-longest-arithmetic-subsequence/) | Medium |
 | [1218-longest-arithmetic-subsequence-of-given-difference](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/1218-longest-arithmetic-subsequence-of-given-difference/) | Medium |
@@ -209,6 +212,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0049-group-anagrams/) | Medium |
 | [0354-russian-doll-envelopes](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0354-russian-doll-envelopes/) | Hard |
 | [0628-maximum-product-of-three-numbers](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0912-sort-an-array](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0912-sort-an-array/) | Medium |
