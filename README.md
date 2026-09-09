@@ -219,6 +219,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0354-russian-doll-envelopes](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0354-russian-doll-envelopes/) | Hard |
 | [0628-maximum-product-of-three-numbers](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0912-sort-an-array](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0912-sort-an-array/) | Medium |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1402-reducing-dishes](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/1402-reducing-dishes/) | Hard |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
@@ -232,6 +233,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1254-number-of-closed-islands](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/1254-number-of-closed-islands/) | Medium |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Breadth-First Search
@@ -349,14 +351,17 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0096-unique-binary-search-trees](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0096-unique-binary-search-trees/) | Medium |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0096-unique-binary-search-trees](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0096-unique-binary-search-trees/) | Medium |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0096-unique-binary-search-trees](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0096-unique-binary-search-trees/) | Medium |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
