@@ -234,6 +234,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [1254-number-of-closed-islands](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/1254-number-of-closed-islands/) | Medium |
@@ -355,6 +356,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0096-unique-binary-search-trees](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0096-unique-binary-search-trees/) | Medium |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
@@ -362,11 +364,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0096-unique-binary-search-trees](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0096-unique-binary-search-trees/) | Medium |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0096-unique-binary-search-trees](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0096-unique-binary-search-trees/) | Medium |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
@@ -426,4 +430,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0572-subtree-of-another-tree](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0572-subtree-of-another-tree/) | Easy |
+## Binary Lifting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+## Lowest Common Ancestor
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 <!---LeetCode Topics End-->
