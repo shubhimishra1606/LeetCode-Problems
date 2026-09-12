@@ -234,6 +234,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0098-validate-binary-search-tree](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0110-balanced-binary-tree](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
@@ -300,6 +301,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
@@ -361,6 +363,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0096-unique-binary-search-trees](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0098-validate-binary-search-tree](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0102-binary-tree-level-order-traversal](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
@@ -382,6 +385,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0096-unique-binary-search-trees](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0098-validate-binary-search-tree](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0102-binary-tree-level-order-traversal](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
