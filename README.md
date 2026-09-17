@@ -97,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1824-minimum-sideway-jumps](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/1824-minimum-sideway-jumps/) | Medium |
 | [1872-stone-game-viii](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/1872-stone-game-viii/) | Hard |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/1981-minimize-the-difference-between-target-and-chosen-elements/) | Medium |
 | [2395-find-subarrays-with-equal-sum](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/2395-find-subarrays-with-equal-sum/) | Easy |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/2900-longest-unequal-adjacent-groups-subsequence-i/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
@@ -198,6 +199,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1824-minimum-sideway-jumps](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/1824-minimum-sideway-jumps/) | Medium |
 | [1872-stone-game-viii](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/1872-stone-game-viii/) | Hard |
+| [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/1981-minimize-the-difference-between-target-and-chosen-elements/) | Medium |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/2900-longest-unequal-adjacent-groups-subsequence-i/) | Easy |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/3534-path-existence-queries-in-a-graph-ii/) | Hard |
@@ -287,6 +289,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0931-minimum-falling-path-sum](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1260-shift-2d-grid](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/1260-shift-2d-grid/) | Easy |
+| [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/1981-minimize-the-difference-between-target-and-chosen-elements/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
