@@ -65,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0049-group-anagrams/) | Medium |
 | [0063-unique-paths-ii](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0064-minimum-path-sum/) | Medium |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0119-pascals-triangle-ii](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0221-maximal-square](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0221-maximal-square/) | Medium |
@@ -119,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0001-two-sum](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0001-two-sum/) | Easy |
 | [0049-group-anagrams](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0049-group-anagrams/) | Medium |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0953-verifying-an-alien-dictionary](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0953-verifying-an-alien-dictionary/) | Easy |
 | [1027-longest-arithmetic-subsequence](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/1027-longest-arithmetic-subsequence/) | Medium |
@@ -377,6 +379,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0096-unique-binary-search-trees](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0098-validate-binary-search-tree](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0102-binary-tree-level-order-traversal](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0110-balanced-binary-tree](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
@@ -399,6 +402,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0096-unique-binary-search-trees](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0098-validate-binary-search-tree](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0102-binary-tree-level-order-traversal](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0110-balanced-binary-tree](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
@@ -413,6 +417,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0912-sort-an-array](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0912-sort-an-array/) | Medium |
 ## Merge Sort
