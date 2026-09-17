@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0012-integer-to-roman](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0012-integer-to-roman/) | Medium |
 | [0062-unique-paths](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0062-unique-paths/) | Medium |
 | [0096-unique-binary-search-trees](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0279-perfect-squares](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0279-perfect-squares/) | Medium |
@@ -37,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0012-integer-to-roman](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0012-integer-to-roman/) | Medium |
 | [0049-group-anagrams](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0049-group-anagrams/) | Medium |
 | [0953-verifying-an-alien-dictionary](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0953-verifying-an-alien-dictionary/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
@@ -119,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0001-two-sum/) | Easy |
+| [0012-integer-to-roman](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0012-integer-to-roman/) | Medium |
 | [0049-group-anagrams](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0049-group-anagrams/) | Medium |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0347-top-k-frequent-elements/) | Medium |
