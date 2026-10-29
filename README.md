@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0012-integer-to-roman](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0012-integer-to-roman/) | Medium |
 | [0049-group-anagrams](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0049-group-anagrams/) | Medium |
+| [0091-decode-ways](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0091-decode-ways/) | Medium |
 | [0273-integer-to-english-words](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0273-integer-to-english-words/) | Hard |
 | [0647-palindromic-substrings](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0647-palindromic-substrings/) | Medium |
 | [0953-verifying-an-alien-dictionary](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0953-verifying-an-alien-dictionary/) | Easy |
@@ -182,6 +183,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0062-unique-paths](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0062-unique-paths/) | Medium |
 | [0063-unique-paths-ii](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0064-minimum-path-sum/) | Medium |
+| [0091-decode-ways](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0091-decode-ways/) | Medium |
 | [0096-unique-binary-search-trees](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0119-pascals-triangle-ii](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
