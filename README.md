@@ -72,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0119-pascals-triangle-ii](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0198-house-robber](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0198-house-robber/) | Medium |
 | [0221-maximal-square](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0221-maximal-square/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0322-coin-change/) | Medium |
@@ -182,6 +183,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0096-unique-binary-search-trees](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0119-pascals-triangle-ii](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0198-house-robber](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0198-house-robber/) | Medium |
 | [0221-maximal-square](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0221-maximal-square/) | Medium |
 | [0279-perfect-squares](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0279-perfect-squares/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0300-longest-increasing-subsequence/) | Medium |
