@@ -378,6 +378,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1741-find-total-time-spent-by-each-employee](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/1741-find-total-time-spent-by-each-employee/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 | [1873-calculate-special-bonus](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/1873-calculate-special-bonus/) | Easy |
+| [1934-confirmation-rate](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/1934-confirmation-rate/) | Medium |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/2356-number-of-unique-subjects-taught-by-each-teacher/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
