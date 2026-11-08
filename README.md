@@ -376,6 +376,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1484-group-sold-products-by-the-date](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/1484-group-sold-products-by-the-date/) | Easy |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/1581-customer-who-visited-but-did-not-make-any-transactions/) | Easy |
 | [1683-invalid-tweets](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/1683-invalid-tweets/) | Easy |
+| [1729-find-followers-count](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/1729-find-followers-count/) | Easy |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/1741-find-total-time-spent-by-each-employee/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 | [1873-calculate-special-bonus](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/1873-calculate-special-bonus/) | Easy |
