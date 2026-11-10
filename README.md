@@ -365,6 +365,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0176-second-highest-salary](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0176-second-highest-salary/) | Medium |
 | [0182-duplicate-emails](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0182-duplicate-emails/) | Easy |
+| [0511-game-play-analysis-i](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0511-game-play-analysis-i/) | Easy |
 | [0577-employee-bonus](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0577-employee-bonus/) | Easy |
 | [0584-find-customer-referee](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0584-find-customer-referee/) | Easy |
 | [0595-big-countries](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0595-big-countries/) | Easy |
