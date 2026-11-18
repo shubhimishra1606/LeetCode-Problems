@@ -1,28 +1,35 @@
 class Solution {
 public:
-    void dfs(vector<vector<pair<int,int>>>& adj, vector<int>& dist, int k){
-        for(auto& i: adj[k]){
-            int v=i.first;
-            int wt=i.second;
-            if(dist[k]+wt<dist[v]){
-                dist[v]=dist[k]+wt;
-                dfs(adj,dist,v);
+    void dijkstra(vector<vector<pair<int,int>>>& adj, vector<int>& dist, int u){
+        priority_queue<pair<int,int>, vector<pair<int,int>>, greater<pair<int,int>>>pq;
+        pq.push({0,u});
+        while(!pq.empty()){
+            auto [currTime, node]=pq.top();
+            pq.pop();
+            if(currTime>dist[node]) continue;
+            for(auto& i: adj[node]){
+                int v=i.first;
+                int w=i.second;
+                if(currTime+w<dist[v]){
+                    dist[v]=currTime+w;
+                    pq.push({dist[v],v});
+                }
             }
         }
     }
     int networkDelayTime(vector<vector<int>>& times, int n, int k) {
-        vector<int>dist(n+1,INT_MAX);
         vector<vector<pair<int,int>>>adj(n+1);
-        for(auto i: times){
+        vector<int>dist(n+1,INT_MAX);
+        dist[k]=0;
+        for(auto& i: times){
             adj[i[0]].push_back({i[1],i[2]});
         }
-        dist[k]=0;
-        dfs(adj,dist,k);
-        int max_time=0;
+        dijkstra(adj,dist,k);
+        int mx=0;
         for(int i=1; i<=n; i++){
             if(dist[i]==INT_MAX) return -1;
-            max_time=max(max_time,dist[i]);
+            mx=max(mx,dist[i]);
         }
-        return max_time;
+        return mx;
     }
 };
