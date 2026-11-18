@@ -174,6 +174,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0743-network-delay-time](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0743-network-delay-time/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/3310-remove-methods-from-project/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
@@ -280,6 +281,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0572-subtree-of-another-tree](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0572-subtree-of-another-tree/) | Easy |
+| [0743-network-delay-time](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0743-network-delay-time/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
@@ -291,6 +293,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0102-binary-tree-level-order-traversal](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0279-perfect-squares](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0279-perfect-squares/) | Medium |
 | [0322-coin-change](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0322-coin-change/) | Medium |
+| [0743-network-delay-time](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0743-network-delay-time/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/2685-count-the-number-of-complete-components/) | Medium |
@@ -357,6 +360,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0743-network-delay-time](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0743-network-delay-time/) | Medium |
 | [0912-sort-an-array](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0912-sort-an-array/) | Medium |
 | [1388-pizza-with-3n-slices](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/1388-pizza-with-3n-slices/) | Hard |
 ## Counting Sort
@@ -534,4 +538,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0836-rectangle-overlap](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0836-rectangle-overlap/) | Easy |
+## Shortest Path
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0743-network-delay-time](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0743-network-delay-time/) | Medium |
+## Dijkstra's Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0743-network-delay-time](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0743-network-delay-time/) | Medium |
 <!---LeetCode Topics End-->
