@@ -88,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0403-frog-jump](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0403-frog-jump/) | Hard |
 | [0416-partition-equal-subset-sum](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
+| [0463-island-perimeter](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0463-island-perimeter/) | Easy |
 | [0486-predict-the-winner](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0486-predict-the-winner/) | Medium |
 | [0518-coin-change-ii](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0518-coin-change-ii/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
@@ -286,6 +287,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0200-number-of-islands/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+| [0463-island-perimeter](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0463-island-perimeter/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0547-number-of-provinces](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0547-number-of-provinces/) | Medium |
 | [0572-subtree-of-another-tree](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0572-subtree-of-another-tree/) | Easy |
@@ -304,6 +306,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0200-number-of-islands/) | Medium |
 | [0279-perfect-squares](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0279-perfect-squares/) | Medium |
 | [0322-coin-change](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0322-coin-change/) | Medium |
+| [0463-island-perimeter](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0463-island-perimeter/) | Easy |
 | [0547-number-of-provinces](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0547-number-of-provinces/) | Medium |
 | [0733-flood-fill](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0733-flood-fill/) | Easy |
 | [0743-network-delay-time](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0743-network-delay-time/) | Medium |
@@ -334,6 +337,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0064-minimum-path-sum](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0064-minimum-path-sum/) | Medium |
 | [0200-number-of-islands](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0200-number-of-islands/) | Medium |
 | [0221-maximal-square](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0221-maximal-square/) | Medium |
+| [0463-island-perimeter](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0463-island-perimeter/) | Easy |
 | [0733-flood-fill](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0733-flood-fill/) | Easy |
 | [0931-minimum-falling-path-sum](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/1254-number-of-closed-islands/) | Medium |
