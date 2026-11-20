@@ -99,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0931-minimum-falling-path-sum](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [0953-verifying-an-alien-dictionary](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0953-verifying-an-alien-dictionary/) | Easy |
 | [0983-minimum-cost-for-tickets](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0983-minimum-cost-for-tickets/) | Medium |
+| [0994-rotting-oranges](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0994-rotting-oranges/) | Medium |
 | [1027-longest-arithmetic-subsequence](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/1027-longest-arithmetic-subsequence/) | Medium |
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/1039-minimum-score-triangulation-of-polygon/) | Medium |
 | [1140-stone-game-ii](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/1140-stone-game-ii/) | Medium |
@@ -311,6 +312,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0733-flood-fill](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0733-flood-fill/) | Easy |
 | [0743-network-delay-time](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0743-network-delay-time/) | Medium |
 | [0841-keys-and-rooms](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0841-keys-and-rooms/) | Medium |
+| [0994-rotting-oranges](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0994-rotting-oranges/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/2685-count-the-number-of-complete-components/) | Medium |
@@ -340,6 +342,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0463-island-perimeter](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0463-island-perimeter/) | Easy |
 | [0733-flood-fill](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0733-flood-fill/) | Easy |
 | [0931-minimum-falling-path-sum](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0931-minimum-falling-path-sum/) | Medium |
+| [0994-rotting-oranges](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0994-rotting-oranges/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1260-shift-2d-grid](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/1260-shift-2d-grid/) | Easy |
 | [1981-minimize-the-difference-between-target-and-chosen-elements](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/1981-minimize-the-difference-between-target-and-chosen-elements/) | Medium |
