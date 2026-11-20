@@ -78,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0119-pascals-triangle-ii](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0198-house-robber](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0198-house-robber/) | Medium |
+| [0200-number-of-islands](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0200-number-of-islands/) | Medium |
 | [0221-maximal-square](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0221-maximal-square/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0322-coin-change/) | Medium |
@@ -169,6 +170,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0200-number-of-islands](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0200-number-of-islands/) | Medium |
 | [0547-number-of-provinces](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0547-number-of-provinces/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/1254-number-of-closed-islands/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/2685-count-the-number-of-complete-components/) | Medium |
@@ -281,6 +283,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0098-validate-binary-search-tree](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0110-balanced-binary-tree](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0129-sum-root-to-leaf-numbers](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
+| [0200-number-of-islands](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0200-number-of-islands/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0543-diameter-of-binary-tree/) | Easy |
@@ -298,6 +301,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
+| [0200-number-of-islands](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0200-number-of-islands/) | Medium |
 | [0279-perfect-squares](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0279-perfect-squares/) | Medium |
 | [0322-coin-change](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0322-coin-change/) | Medium |
 | [0547-number-of-provinces](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0547-number-of-provinces/) | Medium |
@@ -328,6 +332,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0063-unique-paths-ii](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0064-minimum-path-sum/) | Medium |
+| [0200-number-of-islands](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0200-number-of-islands/) | Medium |
 | [0221-maximal-square](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0221-maximal-square/) | Medium |
 | [0733-flood-fill](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0733-flood-fill/) | Easy |
 | [0931-minimum-falling-path-sum](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0931-minimum-falling-path-sum/) | Medium |
