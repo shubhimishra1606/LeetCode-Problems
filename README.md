@@ -91,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0463-island-perimeter](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0463-island-perimeter/) | Easy |
 | [0486-predict-the-winner](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0486-predict-the-winner/) | Medium |
 | [0518-coin-change-ii](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0518-coin-change-ii/) | Medium |
+| [0542-01-matrix](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0542-01-matrix/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0733-flood-fill](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0733-flood-fill/) | Easy |
 | [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0801-minimum-swaps-to-make-sequences-increasing/) | Hard |
@@ -217,6 +218,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0416-partition-equal-subset-sum](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0486-predict-the-winner](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0486-predict-the-winner/) | Medium |
 | [0518-coin-change-ii](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0518-coin-change-ii/) | Medium |
+| [0542-01-matrix](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0542-01-matrix/) | Medium |
 | [0647-palindromic-substrings](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0647-palindromic-substrings/) | Medium |
 | [0801-minimum-swaps-to-make-sequences-increasing](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0801-minimum-swaps-to-make-sequences-increasing/) | Hard |
 | [0877-stone-game](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0877-stone-game/) | Medium |
@@ -308,6 +310,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0279-perfect-squares](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0279-perfect-squares/) | Medium |
 | [0322-coin-change](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0322-coin-change/) | Medium |
 | [0463-island-perimeter](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0463-island-perimeter/) | Easy |
+| [0542-01-matrix](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0542-01-matrix/) | Medium |
 | [0547-number-of-provinces](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0547-number-of-provinces/) | Medium |
 | [0733-flood-fill](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0733-flood-fill/) | Easy |
 | [0743-network-delay-time](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0743-network-delay-time/) | Medium |
@@ -340,6 +343,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0200-number-of-islands/) | Medium |
 | [0221-maximal-square](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0221-maximal-square/) | Medium |
 | [0463-island-perimeter](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0463-island-perimeter/) | Easy |
+| [0542-01-matrix](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0542-01-matrix/) | Medium |
 | [0733-flood-fill](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0733-flood-fill/) | Easy |
 | [0931-minimum-falling-path-sum](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [0994-rotting-oranges](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0994-rotting-oranges/) | Medium |
