@@ -47,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0647-palindromic-substrings](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0647-palindromic-substrings/) | Medium |
 | [0953-verifying-an-alien-dictionary](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0953-verifying-an-alien-dictionary/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [1773-count-items-matching-a-rule](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/1773-count-items-matching-a-rule/) | Easy |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/2900-longest-unequal-adjacent-groups-subsequence-i/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
@@ -114,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1402-reducing-dishes](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/1402-reducing-dishes/) | Hard |
 | [1406-stone-game-iii](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/1406-stone-game-iii/) | Hard |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
+| [1773-count-items-matching-a-rule](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/1773-count-items-matching-a-rule/) | Easy |
 | [1824-minimum-sideway-jumps](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/1824-minimum-sideway-jumps/) | Medium |
 | [1872-stone-game-viii](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/1872-stone-game-viii/) | Hard |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
