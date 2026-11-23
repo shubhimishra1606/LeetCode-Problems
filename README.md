@@ -77,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0119-pascals-triangle-ii](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0130-surrounded-regions](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0130-surrounded-regions/) | Medium |
 | [0198-house-robber](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0200-number-of-islands/) | Medium |
 | [0221-maximal-square](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0221-maximal-square/) | Medium |
@@ -173,6 +174,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0130-surrounded-regions](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0200-number-of-islands/) | Medium |
 | [0547-number-of-provinces](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0547-number-of-provinces/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/1254-number-of-closed-islands/) | Medium |
@@ -287,6 +289,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0098-validate-binary-search-tree](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0110-balanced-binary-tree](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0129-sum-root-to-leaf-numbers](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
+| [0130-surrounded-regions](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0200-number-of-islands/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
@@ -306,6 +309,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
+| [0130-surrounded-regions](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0200-number-of-islands/) | Medium |
 | [0279-perfect-squares](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0279-perfect-squares/) | Medium |
 | [0322-coin-change](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0322-coin-change/) | Medium |
@@ -340,6 +344,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0063-unique-paths-ii](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0064-minimum-path-sum/) | Medium |
+| [0130-surrounded-regions](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0200-number-of-islands/) | Medium |
 | [0221-maximal-square](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0221-maximal-square/) | Medium |
 | [0463-island-perimeter](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0463-island-perimeter/) | Easy |
