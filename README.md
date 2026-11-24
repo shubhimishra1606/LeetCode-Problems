@@ -179,6 +179,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0130-surrounded-regions](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0200-number-of-islands/) | Medium |
 | [0547-number-of-provinces](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0547-number-of-provinces/) | Medium |
+| [0785-is-graph-bipartite](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0785-is-graph-bipartite/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/1254-number-of-closed-islands/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
@@ -187,6 +188,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0547-number-of-provinces](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0547-number-of-provinces/) | Medium |
 | [0743-network-delay-time](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0743-network-delay-time/) | Medium |
+| [0785-is-graph-bipartite](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0841-keys-and-rooms](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0841-keys-and-rooms/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/3310-remove-methods-from-project/) | Medium |
@@ -301,6 +303,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0572-subtree-of-another-tree](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0572-subtree-of-another-tree/) | Easy |
 | [0733-flood-fill](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0733-flood-fill/) | Easy |
 | [0743-network-delay-time](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0743-network-delay-time/) | Medium |
+| [0785-is-graph-bipartite](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0841-keys-and-rooms](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0841-keys-and-rooms/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
@@ -320,6 +323,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0547-number-of-provinces](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0547-number-of-provinces/) | Medium |
 | [0733-flood-fill](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0733-flood-fill/) | Easy |
 | [0743-network-delay-time](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0743-network-delay-time/) | Medium |
+| [0785-is-graph-bipartite](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0841-keys-and-rooms](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0841-keys-and-rooms/) | Medium |
 | [0994-rotting-oranges](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0994-rotting-oranges/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/1254-number-of-closed-islands/) | Medium |
@@ -580,4 +584,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0743-network-delay-time](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0743-network-delay-time/) | Medium |
+## Graph Coloring
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0785-is-graph-bipartite](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0785-is-graph-bipartite/) | Medium |
+## Bipartite Graph
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0785-is-graph-bipartite](https://github.com/shubhimishra1606/LeetCode-Problems/tree/main/0785-is-graph-bipartite/) | Medium |
 <!---LeetCode Topics End-->
