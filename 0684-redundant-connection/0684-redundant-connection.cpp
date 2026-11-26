@@ -1,12 +1,18 @@
 class Solution {
 public:
-    bool dfs(int u, int v, vector<vector<int>>& adj, vector<bool>& visited){
-        if(u==v) return true;
+    bool bfs(int u, int v, vector<vector<int>>& adj, int n){
+        vector<bool>visited(n+1,false);
+        queue<int>q;
         visited[u]=true;
-        for(auto& i: adj[u]){
-            if(!visited[i]){
-                if(dfs(i,v,adj,visited)){
-                    return true;
+        q.push(u);
+        while(!q.empty()){
+            int node=q.front();
+            q.pop();
+            if(node==v) return true;
+            for(auto& i: adj[node]){
+                if(!visited[i]){
+                    visited[i]=true;
+                    q.push(i);
                 }
             }
         }
@@ -17,8 +23,7 @@ public:
         vector<vector<int>>adj(n+1);
         for(auto& edge: edges){
             int u=edge[0], v=edge[1];
-            vector<bool>visited(n+1,false);
-            if(dfs(u,v,adj,visited)){
+            if(bfs(u,v,adj,n)){
                 return edge;
             }
             adj[u].push_back(v);
